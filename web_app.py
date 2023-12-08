@@ -47,7 +47,7 @@ with tab1:
                em formato de tabelas e gráficos.")
     col1.write("OBS: Alguns desses dados já foram previamente tratados para serem\
                apresentados aqui, visto que após a coleta, alguns deles apresentaram\
-               distorções devido a ruídos de alta frequência e alta amplitude\
+               distorções devido a ruídos de alta frequência e baixa amplitude\
                proveniente de máquinas elétricas instaladas na bancada do manipulador.")
     col2.image("imgs/3RRR_flex.jpg",use_column_width=True)
     st.header("Dados do manipulador")
